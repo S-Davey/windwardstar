@@ -479,7 +479,7 @@ nav {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 7px;
+    top: -13px;
     margin: 0 auto;
     text-align: center;
     height: 2px;
